@@ -1,4 +1,4 @@
-setwd("C:\\Users\\miles\\OneDrive\\Desktop\\GIS Course")
+setwd("Where you save your data")
 getwd()
 
 install.packages('ggplot2')
